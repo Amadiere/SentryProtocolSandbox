@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "SentryProtocolTest.Api\SentryProtocolTest.Api.csproj", "{04B2497B-34BD-42F4-84E4-D8E28818B413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Integration|Any CPU.ActiveCfg = Integration|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Integration|Any CPU.Build.0 = Integration|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.DE|Any CPU.ActiveCfg = Release.DE|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.DE|Any CPU.Build.0 = Release.DE|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.GB|Any CPU.ActiveCfg = Release.GB|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.GB|Any CPU.Build.0 = Release.GB|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.NL|Any CPU.ActiveCfg = Release.NL|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release.NL|Any CPU.Build.0 = Release.NL|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.UatQATest|Any CPU.ActiveCfg = UatQATest|Any CPU
+		{04B2497B-34BD-42F4-84E4-D8E28818B413}.UatQATest|Any CPU.Build.0 = UatQATest|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
